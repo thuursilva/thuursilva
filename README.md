@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bem-vindo👋, sou o Arthur Fernando.
 
-<!--
-**thuursilva/thuursilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou um estudante do bacharelado de Sistema de Informação, estou atualmente no 8º semestre.
 
-Here are some ideas to get you started:
+Apaixonado em tecnologia desde pequeno, no início desse ano me identifiquei com a carreira de desenvolvedor e estou realizando cursos e desenvolvendo projetos sozinho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As linguagens que tenho conhecimento e já estudei sobre são:
+- C#
+- Java
+- SQL
+- HTML
+- CSS
+- Javascript
+- Kotlin
+- Python
+
+Os principais projetos que desenvolvi podem ser observados abaixo:
+
+
+
