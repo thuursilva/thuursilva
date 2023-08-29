@@ -1,13 +1,15 @@
+#### Olá 👋, sou o Arthur Fernando
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 📢 
 <p align="left"> 
-   Olá, meu nome é Arthur Fernando, brasileiro, estudante de Sistemas da Informação em seu 8º semestre. Sou apaixonado por tecnologia e busco me especializar ainda mais na área de desenvolvimento diariamente.
+   Sou brasileiro, estudante de Sistemas da Informação em seu 8º semestre. Sou apaixonado por tecnologia e busco me especializar ainda mais na área de desenvolvimento diariamente.
 </p>
 
 📢 
 <p align="left"> 
-   Hello, my name is Arthur Fernando. I am Brazilian, and I am currently studying Information Systems in 8th semester. Im a passionate about technology and seek to specialize even more in the development area day to day.
+   I am Brazilian, and I am currently studying Information Systems in 8th semester. Im a passionate about technology and seek to specialize even more in the development area day to day.
   <br> <br>
 </p>
 
@@ -20,7 +22,7 @@
 <br>
 
 <div align="center>
-<p align="left">Top Languages</p>
+<p align="left">📚 Top Languages</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuursilva&theme=dark"/>
 </div>
 
@@ -39,7 +41,7 @@
    <img src="https://img.shields.io/badge/figma-800080?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+### 🌎Onde me encontrar:
 <p align="left">
 
   <a href="https://www.linkedin.com/in/arthur-fernando-3b62871b0" alt="Linkedin">
