@@ -13,19 +13,22 @@
 
 <div align="center>
    <p align="left">My Stats</p>
-   <img width="40%" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=thuursilva&theme=dark"/> 
-   <img width="40%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thuursilva&theme=dark"/>
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=thuursilva&theme=dark"/>
+   <br>
+   <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thuursilva&theme=dark"/>
 </div>
 <br>
 
 <div align="center>
 <p align="left">Top Languages</p>
-<img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuursilva&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuursilva&theme=dark"/>
 </div>
 
 ### Main skills:
+<div align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 <p align="left">
