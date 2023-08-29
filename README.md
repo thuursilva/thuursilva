@@ -11,6 +11,11 @@
   <br> <br>
 </p>
 
+<div align="center>
+   <p align="left">My Stats</p>
+   <a href="https://github-readme-streak-stats.herokuapp.com/?user=thuursilva">
+</div>
+
 
 ### Main skills:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -29,5 +34,4 @@
    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{thuursilva}/count.svg" /></p> 
    <br>  
 </div>
-
 
