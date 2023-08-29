@@ -1,20 +1,39 @@
-# Bem-vindo👋, sou o Arthur Fernando.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## Sou um estudante do bacharelado de Sistema de Informação, estou atualmente no 8º semestre.
+📢 
+<p align="left"> 
+   Olá, meu nome é Arthur Fernando, brasileiro, estudante de Sistemas da Informação em seu 8º semestre. Sou apaixonado por tecnologia e busco me especializar ainda mais na área de desenvolvimento diariamente.
+</p>
 
-Apaixonado em tecnologia desde pequeno, no início desse ano me identifiquei com a carreira de desenvolvedor e estou realizando cursos e desenvolvendo projetos sozinho.
+📢 
+<p align="left"> 
+   Hello, my name is Arthur Fernando. I am Brazilian, and I am currently studying Information Systems in 8th semester. Im a passionate about technology and seek to specialize even more in the development area day to day.
+  <br> <br>
+</p>
 
-As linguagens que tenho conhecimento e já estudei sobre são:
-- C#
-- Java
-- SQL
-- HTML
-- CSS
-- Javascript
-- Kotlin
-- Python
+## "scientia est potentia."
 
-Os principais projetos que desenvolvi podem ser observados abaixo:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oPablo-Santos&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pablo Oliveira Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oPablo-Santos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
+### Main skills:
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/arthur-fernando-3b62871b0" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablooliveirasantos/" /></a>
+
+</p>  
+
+<div align="center">
+   <br><p align="centre"><b>Visitors Count</b></p>  
+   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{oPablo-Santos}/count.svg" /></p> 
+   <br>  
+</div>
 
 
