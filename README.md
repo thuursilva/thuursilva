@@ -13,7 +13,8 @@
 
 <div align="center>
    <p align="left">My Stats</p>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thuursilva&theme=dark&background=000000)](https://git.io/streak-stats)
+   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=thuursilva&theme=dark">
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuursilva&theme=dark">
 </div>
 
 
