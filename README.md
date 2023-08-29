@@ -14,9 +14,14 @@
 <div align="center>
    <p align="left">My Stats</p>
    <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=thuursilva&theme=dark">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuursilva&theme=dark">
+   <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thuursilva&theme=dark">
 </div>
+<br>
 
+<div align="center>
+<p align="left">Top Languages</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuursilva&theme=dark">
+</div>
 
 ### Main skills:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
