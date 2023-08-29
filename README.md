@@ -13,7 +13,8 @@
 
 <div align="center>
    <p align="left">My Stats</p>
-   <img width="40%" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=thuursilva&theme=dark">
+   <img width="40%" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=thuursilva&theme=dark">
+   
    <img width="40%" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thuursilva&theme=dark">
 </div>
 <br>
