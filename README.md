@@ -12,7 +12,7 @@
 </p>
 
 <div align="center>
-   <p align="left">My Stats</p>
+   <p align="left">📊 My Stats</p>
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=thuursilva&theme=dark"/>
    <br>
    <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thuursilva&theme=dark"/>
@@ -24,7 +24,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuursilva&theme=dark"/>
 </div>
 
-### Main skills:
+### ⚙️ Main skills:
 <div align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### Other Knowledges:
+### 🎯 Other Knowledges:
 <div align="left">
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
