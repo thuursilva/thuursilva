@@ -13,7 +13,7 @@
 
 <div align="center>
    <p align="left">My Stats</p>
-   <a href="https://github-readme-streak-stats.herokuapp.com/?user=thuursilva">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thuursilva&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
 
