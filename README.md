@@ -14,7 +14,7 @@
 </p>
 
 <div align="center>
-   <p align="left">📊 My Stats</p>
+   <p align="left">📊 Meus status</p>
    <hr>
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=thuursilva&theme=dark"/>
    <br>
@@ -23,21 +23,22 @@
 <br>
 
 <div align="center>
-<p align="left">📚 Top Languages</p>
+<p align="left">📚 Principais linguagens</p>
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuursilva&theme=dark"/>
 </div>
 
-### ⚙️ Main skills:
+### ⚙️ Principais habilidades:
 <hr>
 <div align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-ff0000?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-### 🎯 Other Knowledges:
+### 🎯 Outros conhecimentos:
 <hr>
 <div align="left">
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
